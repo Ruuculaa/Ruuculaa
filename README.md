@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Ruuculaa
+- 👋 Hellooo, me llamo Andrea!
 - 🌱 I’m currently learning development of web applications
 - 🙂 She / Her
-- 👽 17 yrs
+- 👽 18 yrs
+
 
 
 <!---
