@@ -23,6 +23,8 @@
   <img width="12" />
   <img src="https://static.vecteezy.com/system/resources/thumbnails/001/416/705/small/html5-emblem-orange-shield-and-white-text-vector.jpg" height="40" alt="html logo"  />
   <img width="12" />
+  <img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png" height="40" alt="html logo"  />
+  <img width="12" />
 
 </div>
 
